@@ -82,8 +82,7 @@ DATABASES = {
         'HOST': 'pythonserver.mysql.database.azure.com',
         'PORT': '3306',
         'USER': 'databaseadmin',
-        'PASSWORD': 'ERBrains@123',
-        
+        'PASSWORD': 'ERBrains@123',        
     }
 }
 
